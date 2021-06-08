@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_111">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Gabriel Leonardo Chu/eclipse-workspace/LibreriaspaProyectos/cdi-api-2.0.SP1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel Leonardo Chu/eclipse-workspace/LibreriaspaProyectos/jakarta.persistence-api-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel Leonardo Chu/eclipse-workspace/LibreriaspaProyectos/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel Leonardo Chu/eclipse-workspace/LibreriaspaProyectos/javax.faces-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel Leonardo Chu/eclipse-workspace/LibreriaspaProyectos/javax-inject.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel Leonardo Chu/eclipse-workspace/LibreriaspaProyectos/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel Leonardo Chu/eclipse-workspace/LibreriaspaProyectos/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel Leonardo Chu/eclipse-workspace/LibreriaspaProyectos/postgresql-9.4-1201.jdbc4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
